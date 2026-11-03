@@ -1,0 +1,9 @@
+{
+    "name": "Prodi",
+    "alias": "prodi",
+    "description": "Pengelolaan program studi",
+    "keywords": [],
+    "priority": 10,
+    "providers": ["Modules\\Prodi\\Providers\\ProdiServiceProvider"],
+    "files": []
+}

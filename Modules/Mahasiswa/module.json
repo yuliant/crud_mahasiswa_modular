@@ -1,0 +1,10 @@
+{
+    "name": "Mahasiswa",
+    "alias": "mahasiswa",
+    "description": "Pengelolaan mahasiswa dan relasi program studi",
+    "keywords": [],
+    "priority": 20,
+    "providers": ["Modules\\Mahasiswa\\Providers\\MahasiswaServiceProvider"],
+    "files": [],
+    "requires": ["Prodi"]
+}
